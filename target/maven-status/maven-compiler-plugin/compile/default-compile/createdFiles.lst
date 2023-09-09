@@ -1,0 +1,10 @@
+com/ucheanna/ServerApplication.class
+com/ucheanna/repo/ServerRepo.class
+com/ucheanna/model/Response$ResponseBuilderImpl.class
+com/ucheanna/model/Response.class
+com/ucheanna/model/Server.class
+com/ucheanna/resource/ServerResource.class
+com/ucheanna/enumeration/Status.class
+com/ucheanna/model/Response$ResponseBuilder.class
+com/ucheanna/service/implementation/ServerServiceImpl.class
+com/ucheanna/service/ServerService.class
